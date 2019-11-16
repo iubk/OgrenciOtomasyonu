@@ -1,4 +1,4 @@
 # OgrenciOtomasyonu
 
-![ödev1](../../.kaynaklar/nyp_odev1.png)
-![ödev2](../../.kaynaklar/nyp_odev1.png)
+![ödev1](res/nyp_odev1.png)
+![ödev2](res/nyp_odev2.png)
